@@ -1,0 +1,55 @@
+#form_container{
+
+    max-width : 80%;
+    margin: 50px auto;
+}
+
+.form-group{
+
+    margin: 30px auto;
+
+}
+
+#form_title{
+
+    font-weight:bold;
+    font-size: 25px;
+    text-align: center;
+}
+
+h1#app_name{
+
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    margin : 50px auto 0px auto;
+    max-width: 30%;
+}
+
+#submit_group{
+
+    text-align: center;
+
+}
+
+input[name="login"]{
+
+    margin-right: 20px;
+
+}
+
+#message{
+
+    color : red;
+    text-align : center;
+    margin : 30px auto;
+    max-width: 300px;
+
+}
+
+.alert{
+
+    max-width: 20%;
+    margin: 50px auto;
+
+}

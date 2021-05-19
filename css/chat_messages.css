@@ -1,0 +1,29 @@
+#flex-container {
+    display: flex;
+    height: 500px;
+    margin : 50px auto;
+    width : 90%;
+    flex-direction : column;
+    align-items: center;
+    border : 2px solid;
+  }
+
+#flex-container div{
+
+    width : 90%;
+    margin : 30px 0px;
+    border: 1px solid;
+
+}  
+  
+ #messages{
+
+    flex-grow: 5;
+
+ }
+
+ #text_messages{
+
+    flex-grow: 1;
+
+ }
